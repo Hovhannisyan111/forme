@@ -1,3 +1,4 @@
+#Guess the word
 print("What is the capital of france: ")
 capital = "paris"
 ms = "-" * len(capital)
