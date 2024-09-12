@@ -33,4 +33,3 @@
 #    return new_arr
 #arr = [15,7,2,3,0,1,6,8,4,5]
 #print(selection(arr))
-
